@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `[PlayData] Data_Analysis_33`,
+      href: "https://gangda.notion.site/PlayData-Data_Analysis_Track_33-63305f9eaaa74e5c8b0388c351dc186c?pvs=4",
     },
   ],
   // blog setting (required)
